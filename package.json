@@ -1,7 +1,7 @@
 {
-  "name": "codejar",
-  "description": "An embeddable code editor for the browser",
-  "version": "4.2.0",
+  "name": "codejar-bootleg",
+  "description": "An embeddable code editor for the browser. Republish to use some changes not jet released on main repo",
+  "version": "4.2.1",
   "type": "module",
   "main": "./dist/codejar.js",
   "types": "./dist/codejar.d.ts",
@@ -43,7 +43,7 @@
     }
   },
   "license": "MIT",
-  "repository": "antonmedv/codejar",
+  "repository": "timwillebrands/codejar",
   "author": "Anton Medvedev <anton@medv.io>",
   "homepage": "https://medv.io/codejar/"
 }
